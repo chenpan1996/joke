@@ -1,0 +1,20 @@
+.updateTime{
+  text-align: center;
+  padding: 15rpx 15rpx;
+}
+
+.content{
+  margin: 15rpx 30rpx;
+  color: #ffcc00;
+}
+.line-pic{
+   background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502614625216&di=9e0fe407af5ae5f27f41a9b9e939983c&imgtype=0&src=http%3A%2F%2Fs14.sinaimg.cn%2Fmw690%2F005LKisygy722sQYTIpfd%26690);
+  background-size: 50rpx;
+  background-repeat: repeat-x;
+  height: 60rpx;
+}
+
+.jokeList{
+  background-color: #66cc00;
+}
+

@@ -1,0 +1,7 @@
+<view class="jokeList">
+  <block wx:for="{{joke}}">
+    <view class="updateTime">{{item.updatetime}}</view>
+    <view class="content">{{item.content}}</view>
+    <view class="line-pic"></view>
+  </block>
+</view>

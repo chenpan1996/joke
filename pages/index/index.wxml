@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view bindtap="bindViewTap" class="userinfo">
+    <image src="{{imgUrl1}}"></image>
+  </view>
+
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+
+  <view class="center-pic">
+    <image mode="widthFix" src="{{imgUrl2}}"></image>
+  </view>
+
+</view>
